@@ -1,0 +1,34 @@
+/* Color Palette
+primary:    #FFFBEB
+secondary:  #495579
+tertiary:   #263159
+accent:     #251749
+*/
+
+html {
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+
+body {
+    background-color: #251749;
+}
+
+header {
+    background-color: #495579;
+    color: #fff;
+    padding: 1.5rem;
+    margin: 1.2rem;
+}
+
+h1,
+h2 {
+    text-align: center;
+}
+
+img {
+    max-width: 100%;
+    height: auto;
+    border-radius: 2rem;
+}
